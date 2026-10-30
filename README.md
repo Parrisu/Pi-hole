@@ -4,7 +4,7 @@
 
 |  Physical Hardware Setup   | Pi-hole Admin Dashboard  |
 | :------------------------: | :----------------------: |
-| ![[raspberrypiwide 1.png]] | ![[piholedashboard.png]] |
+| ![raspberrypi](https://github.com/Parrisu/Pi-hole/blob/main/raspberrypiwide.png)] | ![piholedashboard](https://github.com/Parrisu/Pi-hole/blob/main/piholedashboard.png) |
 
 > **Live Metrics:** Successfully blocking **~23%** of all network requests across 19 connected home devices, significantly reducing bandwidth and page load times.
 
